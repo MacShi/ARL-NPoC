@@ -1,4 +1,0 @@
-{"plg_name": "Apache_Examples", "plg_type": "poc", "vul_name": "Apache Examples \u6587\u4ef6\u6cc4\u9732", "app_name": "Java", "target": "http://123.56.116.134", "verify_data": "http://123.56.116.134/examples/servlets/servlet/CookieExample.html"}
-{"plg_name": "Apache_Examples", "plg_type": "poc", "vul_name": "Apache Examples \u6587\u4ef6\u6cc4\u9732", "app_name": "Java", "target": "http://123.56.116.134", "verify_data": "http://123.56.116.134/examples/servlets/servlet/CookieExample.html"}
-{"plg_name": "Apache_Examples", "plg_type": "poc", "vul_name": "Apache Examples \u6587\u4ef6\u6cc4\u9732", "app_name": "Java", "target": "http://it2it.tk:444", "verify_data": "http://it2it.tk:444/examples/servlets/servlet/CookieExample.html"}
-{"plg_name": "Apache_Examples", "plg_type": "poc", "vul_name": "Apache Examples \u6587\u4ef6\u6cc4\u9732", "app_name": "Java", "target": "http://it2it.tk:444", "verify_data": "http://it2it.tk:444/examples/servlets/servlet/CookieExample.html"}
