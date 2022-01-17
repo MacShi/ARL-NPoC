@@ -15,6 +15,8 @@ pip3 install -e .
 
 ## 使用
 
+1. 命令行使用
+
 ```
 xing -h
 
@@ -41,6 +43,10 @@ optional arguments:
 ```
 
 其中子命令的`-t`参数可以为文件名也可以为单个指定的目标，`-n` 按照文件名筛选`PoC`
+
+2. 将编写的POC导入到ARL中使用
+
+   将编写后的POC文件放到worker、web容器的` /opt/ARL-NPoc/xing/plugins/poc/`，访问ARL管理端即可看到自定义的poc
 
 ## 备注
 本项目是ARL中的子模块
