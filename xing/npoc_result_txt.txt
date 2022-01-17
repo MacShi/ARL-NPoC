@@ -1,0 +1,4 @@
+Apache Examples 文件泄露----http://123.56.116.134/examples/servlets/servlet/CookieExample.html
+Apache Examples 文件泄露----http://123.56.116.134/examples/servlets/servlet/CookieExample.html
+Apache Examples 文件泄露----http://it2it.tk:444/examples/servlets/servlet/CookieExample.html
+Apache Examples 文件泄露----http://it2it.tk:444/examples/servlets/servlet/CookieExample.html
